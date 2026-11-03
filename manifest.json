@@ -1,12 +1,12 @@
 {
-  "version": "0.1.0",
-  "notes": "Bản đầu tiên có cập nhật tự động. Chứa: cập nhật tự động, rong bẫy mồi và lươn điện, decor tự nhiên mới, tập tính như thật, khoảng mặt hồ + ôxy, câu cá chân thực, menu Hoạt động khác sửa lỗi layout, bếp có thẻ món đã chín, bỏ thảm họa rác, hai thảm họa mới (phù sa đục, dòng chảy lạnh), cá đánh nhau theo lãnh thổ.",
-  "zipUrl": "https://github.com/hoangman1108/cozy-tank-releases/releases/download/v0.1.0/CozyTank-0.1.0.app.zip",
-  "zipSha256": "fcff29317e920175fa6343b2aaca367f5fb30752cd0d4387333f7bc71061bffb",
-  "zipBytes": 3535871,
-  "dmgUrl": "https://github.com/hoangman1108/cozy-tank-releases/releases/download/v0.1.0/CozyTank-0.1.0.dmg",
-  "dmgSha256": "dab8b7afb136c9764e4ee217742c65c39c3a9ddbd62dd00374bf720e1f82bbb5",
-  "dmgBytes": 3747713,
-  "publishedAt": "2026-11-03T06:42:09Z",
-  "releaseUrl": "https://github.com/hoangman1108/cozy-tank-releases/releases/tag/v0.1.0"
+  "version": "0.2.0",
+  "notes": "Thêm Ếch Cây: đậu trên lá súng và bèo, nhảy xuống bơi lội, ngoi lên thở, ban đêm kêu ộp ộp và có hợp xướng. Ếch không bị câu, không bị ăn, không bao giờ chết.",
+  "zipUrl": "https://github.com/hoangman1108/cozy-tank-releases/releases/download/v0.2.0/CozyTank-0.2.0.app.zip",
+  "zipSha256": "8bcfb4c67909e8b819eea4b50c9957821343c86fa826258ee919eee6dfba31da",
+  "zipBytes": 3545260,
+  "dmgUrl": "https://github.com/hoangman1108/cozy-tank-releases/releases/download/v0.2.0/CozyTank-0.2.0.dmg",
+  "dmgSha256": "3084a710e9610f33d37b99449c8b3f9d399b012ad2112513c21d2946b09f8353",
+  "dmgBytes": 3755398,
+  "publishedAt": "2026-11-03T13:47:05Z",
+  "releaseUrl": "https://github.com/hoangman1108/cozy-tank-releases/releases/tag/v0.2.0"
 }
