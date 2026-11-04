@@ -1,12 +1,12 @@
 {
-  "version": "0.2.0",
-  "notes": "Thêm Ếch Cây: đậu trên lá súng và bèo, nhảy xuống bơi lội, ngoi lên thở, ban đêm kêu ộp ộp và có hợp xướng. Ếch không bị câu, không bị ăn, không bao giờ chết.",
-  "zipUrl": "https://github.com/hoangman1108/cozy-tank-releases/releases/download/v0.2.0/CozyTank-0.2.0.app.zip",
-  "zipSha256": "8bcfb4c67909e8b819eea4b50c9957821343c86fa826258ee919eee6dfba31da",
-  "zipBytes": 3545260,
-  "dmgUrl": "https://github.com/hoangman1108/cozy-tank-releases/releases/download/v0.2.0/CozyTank-0.2.0.dmg",
-  "dmgSha256": "3084a710e9610f33d37b99449c8b3f9d399b012ad2112513c21d2946b09f8353",
-  "dmgBytes": 3755398,
-  "publishedAt": "2026-11-03T13:47:05Z",
-  "releaseUrl": "https://github.com/hoangman1108/cozy-tank-releases/releases/tag/v0.2.0"
+  "version": "0.3.0",
+  "notes": "Thêm chế độ Xem 3D: bấm 3 hoặc mục 'Xem 3D' trong Hoạt động khác để xem bể của bạn ở góc nhìn ba chiều, dùng chung mô phỏng đang chạy. Esc để quay về 2D.",
+  "zipUrl": "https://github.com/hoangman1108/cozy-tank-releases/releases/download/v0.3.0/CozyTank-0.3.0.app.zip",
+  "zipSha256": "407650c9574d2bfd4c7a96e5a9d4d65d58bc79bc8a92f892aee6ba4bfefb7122",
+  "zipBytes": 3689217,
+  "dmgUrl": "https://github.com/hoangman1108/cozy-tank-releases/releases/download/v0.3.0/CozyTank-0.3.0.dmg",
+  "dmgSha256": "a88d1544a61cdf2a415f91c7277ab5cc5fa8eeb8f78520fdeafa105fccc87d9c",
+  "dmgBytes": 3901159,
+  "publishedAt": "2026-11-04T03:06:38Z",
+  "releaseUrl": "https://github.com/hoangman1108/cozy-tank-releases/releases/tag/v0.3.0"
 }
