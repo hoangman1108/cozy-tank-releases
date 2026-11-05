@@ -1,12 +1,12 @@
 {
-  "version": "0.3.0",
-  "notes": "Thêm chế độ Xem 3D: bấm 3 hoặc mục 'Xem 3D' trong Hoạt động khác để xem bể của bạn ở góc nhìn ba chiều, dùng chung mô phỏng đang chạy. Esc để quay về 2D.",
-  "zipUrl": "https://github.com/hoangman1108/cozy-tank-releases/releases/download/v0.3.0/CozyTank-0.3.0.app.zip",
-  "zipSha256": "407650c9574d2bfd4c7a96e5a9d4d65d58bc79bc8a92f892aee6ba4bfefb7122",
-  "zipBytes": 3689217,
-  "dmgUrl": "https://github.com/hoangman1108/cozy-tank-releases/releases/download/v0.3.0/CozyTank-0.3.0.dmg",
-  "dmgSha256": "a88d1544a61cdf2a415f91c7277ab5cc5fa8eeb8f78520fdeafa105fccc87d9c",
-  "dmgBytes": 3901159,
-  "publishedAt": "2026-11-04T03:06:38Z",
-  "releaseUrl": "https://github.com/hoangman1108/cozy-tank-releases/releases/tag/v0.3.0"
+  "version": "0.3.1",
+  "notes": "Bệnh đốm trắng lan chậm hơn nhiều (tối đa 1 con mới mỗi phút) và có nút Trị cho tất cả: giá bằng tổng giá trị từng con nhân 3.",
+  "zipUrl": "https://github.com/hoangman1108/cozy-tank-releases/releases/download/v0.3.1/CozyTank-0.3.1.app.zip",
+  "zipSha256": "6e7e9eb6fb2e763d73a831d98e1392b8c528617620331c397c5f9c945658b51b",
+  "zipBytes": 3689550,
+  "dmgUrl": "https://github.com/hoangman1108/cozy-tank-releases/releases/download/v0.3.1/CozyTank-0.3.1.dmg",
+  "dmgSha256": "da59cc4d15ffa4a5cd1b213029c10dbeb886d9254dddfd402c4d5421d725e611",
+  "dmgBytes": 3901427,
+  "publishedAt": "2026-11-05T14:55:28Z",
+  "releaseUrl": "https://github.com/hoangman1108/cozy-tank-releases/releases/tag/v0.3.1"
 }
